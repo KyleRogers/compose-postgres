@@ -8,7 +8,7 @@ This is a fork of https://github.com/khezen/compose-postgres currently primarily
 
 ## Quick Start
 * Clone or download this repository
-* Go inside of directory,  `cd compose-postgres`
+* Go inside the project directory,  e.g. `cd pg-local`
 * Create an empty file `.env` and add your own configuration (see Environments) inside
 * Run docker compose up command: `docker-compose up -d`
 
