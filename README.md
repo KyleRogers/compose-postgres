@@ -36,7 +36,7 @@ PGADMIN_DEFAULT_EMAIL=pgadmin4@pgadmin.org
 PGADMIN_DEFAULT_PASSWORD=admin
 ```
 
-This allows you to visit pgadmin under http://localhost:5050 and login with the given email and password above.
+After launching the two docker containers with `docker-compose up -d` this allows you to visit pgadmin under http://localhost:5050 and login with the given email and password above.
 
 
 ## Access to postgres: 
