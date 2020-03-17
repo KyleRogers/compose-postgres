@@ -28,7 +28,7 @@ This file is intentionally added to `.gitignore` because it will contain your pe
 
 You can create an `.env` file with the following contents:
 
-```shell script
+```shell
 POSTGRES_USER=postgres
 POSTGRES_PASSWORD=changeme
 PGADMIN_PORT=5050
